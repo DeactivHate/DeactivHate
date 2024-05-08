@@ -1,7 +1,6 @@
 # Welcome to #DeactivHate!
 
-<p> The laboratory is supported by <a href="http://di.unito.it/orientamentoscuole">Commissione Orientamento e Informatica nelle Scuole<a> and funded by the project "Piano Lauree Scientifiche". <br>
-  Computer Science Department, University of Turin. </p>
+<p> The laboratory is supported by <a href="http://di.unito.it/orientamentoscuole">Commissione Orientamento e Informatica nelle Scuole<a> and funded by the project "Piano Lauree Scientifiche" of the Computer Science Department in the University of Turin. </p>
 
 <img src="https://github.com/DeactivHate/DeactivHate/assets/166495193/609b760a-ffaa-4b36-bd97-d679f2428a39" width="300" />
 
