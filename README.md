@@ -14,7 +14,7 @@
 </p>
 
 <p> 
-<li> Frenda, Simona, Alessandra Teresa Cignarella, Marco Antonio Stranisci, Mirko Lai, Cristina Bosco, and Viviana Patti. <b>Recognizing Hate with NLP: The Teaching Eexperience of the #DeactivHate Lab in Italian High Schools</b>. 
+<li> Frenda, Simona, Alessandra Teresa Cignarella, Marco Antonio Stranisci, Mirko Lai, Cristina Bosco, and Viviana Patti. <b>Recognizing Hate with NLP: The Teaching Experience of the #DeactivHate Lab in Italian High Schools</b>. 
 In Proceedings of the Eighth Italian Conference on Computational Linguistics, vol. 3033, pp. 1-7. CEUR-WS.org <br>
 <a href="https://iris.unito.it/bitstream/2318/1823881/1/paper35.pdf">https://iris.unito.it/bitstream/2318/1823881/1/paper35.pdf</a> 
 
