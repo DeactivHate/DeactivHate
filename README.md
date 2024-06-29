@@ -11,6 +11,13 @@
 
 <br>
 <br>
+
+
+
+
+### >>> Please fill in <a href="https://forms.gle/a1fzbk2Zf54QoovY8">THIS FORM</a> and read our terms of use in order **to obtain the editable slides** of #DeactivHate.
+
+<br>
 <br>
 
 <p> Previous publications regarding #DeactivHate:
@@ -27,13 +34,5 @@ IJCoL. Italian Journal of Computational Linguistics 9, no. 9-2 (2023).<br>
 <b>Recognizing Hate with NLP: The Teaching Experience of the #DeactivHate Lab in Italian High Schools</b>. 
 In Proceedings of the Eighth Italian Conference on Computational Linguistics, vol. 3033, pp. 1-7. CEUR-WS.org (2021).<br>
 <a href="https://iris.unito.it/bitstream/2318/1823881/1/paper35.pdf">https://iris.unito.it/bitstream/2318/1823881/1/paper35.pdf</a>
- 
-</p>
-
-<p> 
-
-
-
-
 </p>
 </ol>
