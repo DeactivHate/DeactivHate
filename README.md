@@ -15,7 +15,7 @@
 
 
 
-### >>> Please fill in <a href="https://forms.gle/zm9NQACZLe6EHfZx9">THIS FORM</a> and read our terms of use in order **to obtain the editable slides** of #DeactivHate.
+### >>> Please fill in <a href="https://forms.gle/zm9NQACZLe6EHfZx9">THIS FORM</a> and read our terms of use in order **to obtain the editable slides** of #DeactivHate. For the PDF slides and other documents, please refer to the folder "Materials" below.
 
 <br>
 <br>
